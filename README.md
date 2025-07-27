@@ -1,4 +1,4 @@
-# 🤖 Rank-Slash-v14 - Bot Discord Dédié à la Géstion de rôle
+# 🤖 Template-Slash-v14 - Template de Bot Discord en discord.js v14
 
 Un bot Discord développé en **Node.js** permettant d’ajouter, suivre ou restreindre les rôles des membres avec des systèmes de logs, de permissions, et d’alertes en cas de tentative d’élévation de privilèges.
 
