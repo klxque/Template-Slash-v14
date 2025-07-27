@@ -1,6 +1,6 @@
 # 🤖 Template-Slash-v14 - Template de Bot Discord en discord.js v14
 
-Un bot Discord développé en **Node.js** permettant d’ajouter, suivre ou restreindre les rôles des membres avec des systèmes de logs, de permissions, et d’alertes en cas de tentative d’élévation de privilèges.
+Juste une Template de bot Discord en Commande Slash.
 
 ---
 
@@ -18,7 +18,7 @@ Un bot Discord développé en **Node.js** permettant d’ajouter, suivre ou rest
 
 ```bash
 git clone https://github.com/klxque/Template-Slash-v14.git
-cd rank-bot
+cd Template-Slash-v14
 ```
 ### 2. Installer les dépendances
 
